@@ -1,7 +1,7 @@
 /*
 @author DenisKochetkov
 @ver 1.0
-@link ---
+@link https://github.com/HumsterProgrammer/Let-it-snow
 */
 import java.awt.Component;
 import java.awt.Graphics;
